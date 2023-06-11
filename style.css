@@ -1,0 +1,91 @@
+body {
+    background-color: gray;
+
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: -10px;
+}
+
+#parent {
+    width: 400px;
+    height: 85vh;
+
+    background-color: rebeccapurple;
+
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+
+
+    margin: auto;
+    padding-bottom: 50px;
+
+    border-radius: 20px;
+
+    overflow: auto;
+}
+
+#myInput {
+    width: 60%;
+}
+
+
+#myInput,
+img .my-img,
+#add,
+.btnPlus,
+.btnMinus,
+#child {
+    padding: 10px 20px;
+    margin: 20px;
+
+    border-radius: 10px;
+    border: none;
+}
+
+
+#add {
+    background-color: lightskyblue;
+    color: white;
+
+    display: inline;
+    padding: 10px 50px;
+    margin-top: 0;
+
+    border-radius: 20px;
+
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#add:hover {
+    background-color: darkturquoise;
+}
+
+#child {
+    background-color: white;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#addedTasks {
+    padding: 10px 20px;
+    margin: 20px;
+
+    width: 80%;
+}
+
+#child span:first-child {
+    font-size: 24px;
+}
+
+.line-through {
+    text-decoration: line-through 5px rebeccapurple;
+}
