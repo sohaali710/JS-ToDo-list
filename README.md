@@ -9,3 +9,7 @@ In this project:\
 ### To Run The Project
 You can open the project live with this link:\
 https://sohaali710.github.io/JS-ToDo-list/
+
+<div>
+  <img src="" width="200">
+</div>
