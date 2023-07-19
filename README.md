@@ -1,5 +1,5 @@
 # JS-ToDo-list
-- In this project:/
+In this project:\
 - you can add list of tasks
 - mark task as done
 - delete a task
