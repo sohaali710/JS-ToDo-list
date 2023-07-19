@@ -11,5 +11,5 @@ You can open the project live with this link:\
 https://sohaali710.github.io/JS-ToDo-list/
 
 <div>
-  <img src="" width="200">
+  <img src="https://github.com/sohaali710/JS-ToDo-list/blob/master/todo-list-app.png" width="200">
 </div>
