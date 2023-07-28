@@ -7,8 +7,10 @@ In this project:
 The tasks and the info about it (if it's done or not) is saved into cookies.
 
 ### To Run The Project
-You can open the project live with this link:\
+Link:
+
 https://sohaali710.github.io/JS-ToDo-list/
+
 
 <div>
   <img src="https://github.com/sohaali710/JS-ToDo-list/blob/master/todo-list-app.png" width="400">
