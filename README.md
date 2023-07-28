@@ -12,6 +12,7 @@ Link:
 https://sohaali710.github.io/JS-ToDo-list/
 
 
+
 <div>
   <img src="https://github.com/sohaali710/JS-ToDo-list/blob/master/todo-list-app.png" width="400">
 </div>
